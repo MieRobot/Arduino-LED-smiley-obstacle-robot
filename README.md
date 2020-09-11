@@ -24,3 +24,9 @@ LED is soldered as below. If you are doing chains of LED then use both the groun
 
 I have used a USB 2S 800 mAh battery via the barrel jack. If you power by the usb you will draw less current and your motors will move slower and also the LED may not be bright.
 
+## 3D print the servo neck
+
+You may 3D print the servo neck with the files in this repo. Below is the image in 3D designer.
+
+![Servo neck in 3D Image 4 ](https://github.com/MieRobot/Arduino-LED-smiley-obstacle-robot/blob/master/paint3d%20servo%20holder.jpeg)
+
