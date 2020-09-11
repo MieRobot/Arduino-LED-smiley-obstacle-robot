@@ -16,6 +16,10 @@ Please solder well the DC motor and the 3 Pin LED Strip. It is advised that you 
 
 ![Motors soldered Image 2 ](https://github.com/MieRobot/Arduino-LED-smiley-obstacle-robot/blob/master/motor%20soldered.jpg)
 
+LED is soldered as below. If you are doing chains of LED then use both the ground. I have used one ground as I had only 8 LED's.
+
+![LED soldered Image 3 ](https://github.com/MieRobot/Arduino-LED-smiley-obstacle-robot/blob/master/led%20soldered.jpg)
+
 ## Power Source
 
 I have used a USB 2S 800 mAh battery via the barrel jack. If you power by the usb you will draw less current and your motors will move slower and also the LED may not be bright.
