@@ -24,7 +24,7 @@ LED is soldered as below. If you are doing chains of LED then use both the groun
 
 I have used a USB 2S 800 mAh battery via the barrel jack. If you power by the usb you will draw less current and your motors will move slower and also the LED may not be bright.
 
-## 3D print the servo neck
+## 3D print the servo neck - File name model3.stl
 
 You may 3D print the servo neck with the files in this repo. Below is the image in 3D designer.
 
